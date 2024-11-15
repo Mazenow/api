@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1901","create new pet","tests","Fri Nov 15 18:15:10 MSK 2024","passed","Fri Nov 15 18:15:12 MSK 2024","TestServ1","test_api_serv1","",""
